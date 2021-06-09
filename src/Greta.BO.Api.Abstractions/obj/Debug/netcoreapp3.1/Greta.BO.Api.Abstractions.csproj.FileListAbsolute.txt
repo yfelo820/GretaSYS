@@ -1,0 +1,12 @@
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\bin\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.deps.json
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\bin\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\bin\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\obj\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.csprojAssemblyReference.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\obj\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.AssemblyInfoInputs.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\obj\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.AssemblyInfo.cs
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\obj\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\obj\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.csproj.CopyComplete
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\obj\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Abstractions\obj\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.pdb

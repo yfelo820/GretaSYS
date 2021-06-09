@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Greta.BO.Api.Entities</name>
+    </assembly>
+    <members>
+        <member name="F:Greta.BO.Api.Entities.Enum.ProductType.SPT">
+            <summary>
+            Standard Product Type
+            </summary>
+        </member>
+        <member name="F:Greta.BO.Api.Entities.Enum.ProductType.SLP">
+            <summary>
+            Scale Label Product
+            </summary>
+        </member>
+        <member name="F:Greta.BO.Api.Entities.Enum.ProductType.CWP">
+            <summary>
+            Checkout Weighed Product
+            </summary>
+        </member>
+        <member name="F:Greta.BO.Api.Entities.Enum.ProductType.KPT">
+            <summary>
+            Kit Product Type
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.Product.UPC">
+            <summary>
+            UPC for a Scale Label product. 
+            If the user is adding the UPC length of the UPC is 5 digits so we need to check Length on UPC entry on this type of product. The length is a 5 digits number only 0-9.
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.Product.QtyHand">
+            <summary>
+            Qty on Hand
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.Product.OrderTrigger">
+            <summary>
+            Not defined yet
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.Product.OrderAmount">
+            <summary>
+            Not defined yet
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.ServingPerContainer">
+            <summary>
+            Servings per container
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.ServingSize">
+            <summary>
+            Serving Size
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.AmountPerServingCalories">
+            <summary>
+            Amount per serving calories
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.TotalFatGrams">
+            <summary>
+            Total fat grams(g)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.TotalFat">
+            <summary>
+            Total fat %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.SaturedFatGrams">
+            <summary>
+            Saturated fat grams(g)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.SaturedFat">
+            <summary>
+            Saturated fat %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.CholesterolMGrams">
+            <summary>
+            Cholesterol mgrams(mg)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.Cholesterol">
+            <summary>
+            Cholesterol %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.SodiumMGrams">
+            <summary>
+            Sodium mgrams(mg)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.Sodium">
+            <summary>
+            Sodium %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.TotalCarbohydrateGrams">
+            <summary>
+            Total Carbohydrate grams(g)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.TotalCarbohydrate">
+            <summary>
+            Total Carbohydrate %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.DietaryFiberGrams">
+            <summary>
+            Dietary Fiber grams(g)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.DietaryFiber">
+            <summary>
+            Dietary Fiber %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.TotalSugarGrams">
+            <summary>
+            Total Sugar grams(g)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.AddedSugarGrams">
+            <summary>
+            Added Sugar grams(g)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.AddedSugar">
+            <summary>
+            Added Sugar %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.ProteinGrams">
+            <summary>
+            Protein grams (g)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.VitDMGrams">
+            <summary>
+            Vit. D microgram(mcg)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.VitD">
+            <summary>
+            Vit. D %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.CalciumMGrams">
+            <summary>
+            Calcium mgrams(mg)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.Calcium">
+            <summary>
+            Calcium %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.IronMGrams">
+            <summary>
+            Iron mgrams(mg)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.Iron">
+            <summary>
+            Iron %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.PotasMGrams">
+            <summary>
+            Potas mgrams(mg)
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.ScaleProduct.Potas">
+            <summary>
+            Potas %
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.StoreProduct.GrossProfit">
+            <summary>
+            Percent 0.00   format  7.25%
+            Gross Profit if Cost = 0.00 Then Gross Profit = 0.00 Else Gross Profit = Retail - Cost / Retail 
+            “No negative number allowed in Retail or Cost”. Then mark the record as CHANGED
+            </summary>
+        </member>
+        <member name="P:Greta.BO.Api.Entities.TenderType.OpenDrawer">
+            <summary>
+            Determine if open drawer is needed
+            </summary>
+        </member>
+    </members>
+</doc>

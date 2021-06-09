@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <ProjectGuid>1bb27db6-8abb-483c-8acd-7ea19c3587da</ProjectGuid>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<DocumentationFile>..\..\docs\CSharp Doc\Greta.BO.Api.Entities.xml</DocumentationFile>
+	</PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Greta.Sdk.Core" Version="1.0.0.4" />
+  </ItemGroup>
+
+</Project>

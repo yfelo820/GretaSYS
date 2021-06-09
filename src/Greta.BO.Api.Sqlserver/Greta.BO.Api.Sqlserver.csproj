@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <ProjectGuid>adce5162-0873-4dba-98a4-c14e0d6b4eed</ProjectGuid>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<DocumentationFile>..\..\docs\CSharp Doc\Greta.BO.Api.SqlServer.xml</DocumentationFile>
+	</PropertyGroup>
+	<ItemGroup>
+	  <PackageReference Include="Greta.Sdk.EFCore" Version="1.0.0.4" />
+	</ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Greta.BO.Api.Abstractions\Greta.BO.Api.Abstractions.csproj" />
+    <ProjectReference Include="..\Greta.BO.Api.Entities\Greta.BO.Api.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

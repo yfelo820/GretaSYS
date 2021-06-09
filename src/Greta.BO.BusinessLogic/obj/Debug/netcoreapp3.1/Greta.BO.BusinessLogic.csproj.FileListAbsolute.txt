@@ -1,0 +1,16 @@
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.deps.json
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\obj\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\obj\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\obj\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.AssemblyInfo.cs
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\obj\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\obj\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.csproj.CopyComplete
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\obj\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.BusinessLogic\obj\Debug\netcoreapp3.1\Greta.BO.BusinessLogic.pdb

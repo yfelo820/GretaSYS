@@ -1,0 +1,14 @@
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\bin\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.deps.json
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\bin\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\bin\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\bin\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\bin\Debug\netcoreapp3.1\Greta.BO.Api.Abstractions.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\obj\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.csprojAssemblyReference.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\obj\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.AssemblyInfoInputs.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\obj\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.AssemblyInfo.cs
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\obj\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.csproj.CoreCompileInputs.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\obj\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.csproj.CopyComplete
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\obj\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Sqlserver\obj\Debug\netcoreapp3.1\Greta.BO.Api.Sqlserver.pdb

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Greta.BO.Api.Sqlserver</name>
+    </assembly>
+    <members>
+        <member name="M:Greta.BO.Api.Sqlserver.Extensions.CommonExtensions.ConfigurationLocalizationBase``3(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder{``2})">
+            <summary>
+            Sets the traversal properties of an entity that implements the IEntityBase interface
+            </summary>
+            <typeparam name="TKey">Type of data that will identify the record</typeparam>
+            <typeparam name="TUserKey">Type of data that the user will identify</typeparam>
+            <typeparam name="TEntity">The entity type to be configured.</typeparam>
+            <param name="userRequired"></param>
+            <param name="builder">The builder to be used to configure the entity type.</param>
+        </member>
+    </members>
+</doc>

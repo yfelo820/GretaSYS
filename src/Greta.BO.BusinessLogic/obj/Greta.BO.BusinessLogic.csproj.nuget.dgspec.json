@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.BusinessLogic\\Greta.BO.BusinessLogic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Abstractions\\Greta.BO.Api.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Abstractions\\Greta.BO.Api.Abstractions.csproj",
+        "projectName": "Greta.BO.Api.Abstractions",
+        "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Abstractions\\Greta.BO.Api.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\GoN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GoN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\Greta.BO.Api.Entities.csproj": {
+                "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\Greta.BO.Api.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Greta.Sdk.EFCore": {
+              "target": "Package",
+              "version": "[1.0.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\Greta.BO.Api.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\Greta.BO.Api.Entities.csproj",
+        "projectName": "Greta.BO.Api.Entities",
+        "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\Greta.BO.Api.Entities.csproj",
+        "packagesPath": "C:\\Users\\GoN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GoN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Greta.Sdk.Core": {
+              "target": "Package",
+              "version": "[1.0.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Sqlserver\\Greta.BO.Api.Sqlserver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Sqlserver\\Greta.BO.Api.Sqlserver.csproj",
+        "projectName": "Greta.BO.Api.Sqlserver",
+        "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Sqlserver\\Greta.BO.Api.Sqlserver.csproj",
+        "packagesPath": "C:\\Users\\GoN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Sqlserver\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GoN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Abstractions\\Greta.BO.Api.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Abstractions\\Greta.BO.Api.Abstractions.csproj"
+              },
+              "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\Greta.BO.Api.Entities.csproj": {
+                "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\Greta.BO.Api.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Greta.Sdk.EFCore": {
+              "target": "Package",
+              "version": "[1.0.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.BusinessLogic\\Greta.BO.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.BusinessLogic\\Greta.BO.BusinessLogic.csproj",
+        "projectName": "Greta.BO.BusinessLogic",
+        "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.BusinessLogic\\Greta.BO.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\GoN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GoN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Abstractions\\Greta.BO.Api.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Abstractions\\Greta.BO.Api.Abstractions.csproj"
+              },
+              "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Sqlserver\\Greta.BO.Api.Sqlserver.csproj": {
+                "projectPath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Sqlserver\\Greta.BO.Api.Sqlserver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

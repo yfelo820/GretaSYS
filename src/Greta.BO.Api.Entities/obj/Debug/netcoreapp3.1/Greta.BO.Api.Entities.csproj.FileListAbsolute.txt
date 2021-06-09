@@ -1,0 +1,9 @@
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.deps.json
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\bin\Debug\netcoreapp3.1\Greta.BO.Api.Entities.pdb
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\obj\Debug\netcoreapp3.1\Greta.BO.Api.Entities.csprojAssemblyReference.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\obj\Debug\netcoreapp3.1\Greta.BO.Api.Entities.AssemblyInfoInputs.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\obj\Debug\netcoreapp3.1\Greta.BO.Api.Entities.AssemblyInfo.cs
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\obj\Debug\netcoreapp3.1\Greta.BO.Api.Entities.csproj.CoreCompileInputs.cache
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\obj\Debug\netcoreapp3.1\Greta.BO.Api.Entities.dll
+C:\Users\GoN\Documents\GitHub\Greta.BO.Api\src\Greta.BO.Api.Entities\obj\Debug\netcoreapp3.1\Greta.BO.Api.Entities.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <ProjectGuid>d90757ef-a0db-4b25-9bc6-764033977310</ProjectGuid>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Greta.BO.Api.Abstractions\Greta.BO.Api.Abstractions.csproj" />
+    <ProjectReference Include="..\Greta.BO.Api.Sqlserver\Greta.BO.Api.Sqlserver.csproj" />
+  </ItemGroup>
+
+</Project>

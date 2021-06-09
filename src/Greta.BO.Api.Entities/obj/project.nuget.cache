@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5UVI1KQw3O5fs9zkf4CKuHa8aTHirfpCgYwlOd/bMlq5yPKWuMt2FqY08xbrhJJmPDyuOiIjodyHi23xTO5bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GoN\\Documents\\GitHub\\Greta.BO.Api\\src\\Greta.BO.Api.Entities\\Greta.BO.Api.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GoN\\.nuget\\packages\\greta.sdk.core\\1.0.0.4\\greta.sdk.core.1.0.0.4.nupkg.sha512",
+    "C:\\Users\\GoN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\GoN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\GoN\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

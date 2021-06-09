@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Greta.Sdk.EFCore" Version="1.0.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Greta.BO.Api.Abstractions\Greta.BO.Api.Abstractions.csproj" />
+    <ProjectReference Include="..\..\..\src\Greta.BO.Api.Entities\Greta.BO.Api.Entities.csproj" />
+    <ProjectReference Include="..\..\..\src\Greta.BO.Api.Sqlserver\Greta.BO.Api.Sqlserver.csproj" />
+  </ItemGroup>
+
+</Project>
